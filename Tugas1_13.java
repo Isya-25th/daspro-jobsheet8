@@ -17,7 +17,7 @@ public class Tugas1_13 {
                 }
             }
             System.out.println(" = " + jumlah);
-        sc.close();
         }
+        sc.close();
     }
 }
